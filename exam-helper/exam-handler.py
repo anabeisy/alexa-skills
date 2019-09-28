@@ -3,7 +3,13 @@ import random
 
 questions = [
         "What is the capital of New York?", 
-        "Who was the 16th president of the United States?"
+        "Who was the 16th president of the United States?", 
+        "What was the name of the last Queen of France?", 
+        "The modern day city of Istanbul was known by what name in the 13th century… ", 
+        "In which decade did Hong Kong revert from British rule…", 
+        "What ancient civilization built the Machu Picchu complex in Peru?", 
+        "The ancient Egyptian writing system was called what?", 
+        "From whom did the United State buy territory in the Louisiana Purchase? "
     ]
 
 def lambda_handler(event, context):
